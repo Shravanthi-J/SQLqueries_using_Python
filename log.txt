@@ -1,0 +1,17 @@
+18/01/2022 00:54:49:INFO:File Parsed Successfully
+18/01/2022 00:54:49:INFO:Connected to mySql
+18/01/2022 00:54:49:INFO:Database Created
+18/01/2022 00:54:49:INFO:Table Created
+18/01/2022 00:54:50:INFO:Data inserted to Table Successfully
+18/01/2022 00:55:54:INFO:File Parsed Successfully
+18/01/2022 00:55:54:INFO:Connected to mySql
+18/01/2022 00:55:54:INFO:Database Created
+18/01/2022 00:55:54:INFO:Table Created
+18/01/2022 00:55:55:INFO:Data inserted to Table Successfully
+18/01/2022 00:55:55:INFO:Connection closed
+18/01/2022 00:56:17:INFO:File Parsed Successfully
+18/01/2022 00:56:17:INFO:Connected to mySql
+18/01/2022 00:56:17:INFO:Database Created
+18/01/2022 00:56:19:INFO:Table Created
+18/01/2022 00:56:22:INFO:Data inserted to Table Successfully
+18/01/2022 00:56:22:INFO:Connection closed
