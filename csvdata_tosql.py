@@ -2,7 +2,7 @@ import csv
 import mysql.connector
 import logging as log
 
-class ParseToSql():
+class ParseCsvToSql():
     ''' This class creates a DB, Table in mysql. Parses data in csv file and inserts all the data to DB '''
     log.basicConfig(filename='log.txt', level=log.DEBUG,
                     format='%(asctime)s:%(levelname)s:%(message)s', datefmt='%d/%m/%Y %H:%M:%S')
@@ -29,11 +29,9 @@ class ParseToSql():
     def parseDataToSql(self,data):
         '''Create a table in SQL and stores all the parsed data in table'''
         try:
-            global con
             con=mysql.connector.connect(host='localhost',user=self.user,password=self.password)
             if con.is_connected():
                 log.info('Connected to mySql')
-            global cursor
             cursor=con.cursor() #To execute SQL queries and hold results
             cursor.execute("create database if not exists Challenge3")
             log.info('Database Challenge3 Created')
@@ -54,10 +52,11 @@ class ParseToSql():
                 con.close()
             log.info('Connection closed')
 
+parser=ParseCsvToSql('carbon_nanotubes.csv','root','1234')
+data=parser.csvParser()
+parser.parseDataToSql(data)
 
-if __name__ == '__main__':
-    p=ParseToSql('carbon_nanotubes.csv','root','1234')
-    data=p.csvParser()
-    p.parseDataToSql(data)
+
+
 
 

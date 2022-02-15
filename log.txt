@@ -15,3 +15,311 @@
 18/01/2022 00:56:19:INFO:Table Created
 18/01/2022 00:56:22:INFO:Data inserted to Table Successfully
 18/01/2022 00:56:22:INFO:Connection closed
+18/01/2022 09:27:07:INFO:File Parsed Successfully
+18/01/2022 09:27:08:INFO:Connected to mySql
+18/01/2022 09:27:08:INFO:Database Challenge3 Created
+18/01/2022 09:27:10:INFO:Table carbon_nanotubes Created
+18/01/2022 09:27:10:INFO:Connection closed
+18/01/2022 09:27:59:INFO:File Parsed Successfully
+18/01/2022 09:27:59:INFO:Connected to mySql
+18/01/2022 09:28:00:INFO:Database Challenge3 Created
+18/01/2022 09:28:00:INFO:Table carbon_nanotubes Created
+18/01/2022 09:28:00:INFO:Connection closed
+18/01/2022 09:28:21:INFO:File Parsed Successfully
+18/01/2022 09:28:21:INFO:Connected to mySql
+18/01/2022 09:28:21:INFO:Database Challenge3 Created
+18/01/2022 09:28:21:INFO:Table carbon_nanotubes Created
+18/01/2022 09:28:21:INFO:Connection closed
+18/01/2022 09:29:17:INFO:File Parsed Successfully
+18/01/2022 09:29:17:INFO:Connected to mySql
+18/01/2022 09:29:17:INFO:Database Challenge3 Created
+18/01/2022 09:29:18:INFO:Table carbon_nanotubes Created
+18/01/2022 09:29:18:INFO:Connection closed
+18/01/2022 09:32:00:INFO:File Parsed Successfully
+18/01/2022 09:32:01:INFO:Connected to mySql
+18/01/2022 09:32:01:INFO:Database Created
+18/01/2022 09:32:02:INFO:Table Created
+18/01/2022 09:32:06:INFO:Data inserted to Table Successfully
+18/01/2022 09:32:06:INFO:Connection closed
+18/01/2022 09:34:34:INFO:File Parsed Successfully
+18/01/2022 09:34:34:INFO:Connected to mySql
+18/01/2022 09:34:35:INFO:Database Challenge3 Created
+18/01/2022 09:34:36:INFO:Table carbon_nanotubes Created
+18/01/2022 09:34:40:INFO:Data inserted to Table Successfully
+18/01/2022 09:34:40:INFO:Connection closed
+21/01/2022 22:56:01:INFO:File Parsed Successfully
+21/01/2022 22:56:04:INFO:Connected to mySql
+21/01/2022 22:56:05:INFO:Database Challenge3 Created
+21/01/2022 22:56:05:INFO:Table carbon_nanotubes Created
+21/01/2022 22:56:09:INFO:Data inserted to Table Successfully
+21/01/2022 22:56:09:INFO:Connection closed
+21/01/2022 23:22:49:INFO:File Parsed Successfully
+21/01/2022 23:22:50:INFO:Connected to mySql
+21/01/2022 23:22:50:INFO:Database Challenge3 Created
+21/01/2022 23:22:50:INFO:Table carbon_nanotubes Created
+21/01/2022 23:22:51:INFO:Data inserted to Table Successfully
+21/01/2022 23:22:51:INFO:Connection closed
+21/01/2022 23:23:22:INFO:File Parsed Successfully
+21/01/2022 23:23:22:INFO:Connected to mySql
+21/01/2022 23:23:22:INFO:Database Challenge3 Created
+21/01/2022 23:23:22:INFO:Table carbon_nanotubes Created
+21/01/2022 23:23:23:INFO:Data inserted to Table Successfully
+21/01/2022 23:23:23:INFO:Connection closed
+21/01/2022 23:28:10:INFO:File Parsed Successfully
+21/01/2022 23:28:10:INFO:Connected to mySql
+21/01/2022 23:28:10:INFO:Database Challenge3 Created
+21/01/2022 23:28:10:INFO:Table carbon_nanotubes Created
+21/01/2022 23:28:12:INFO:Data inserted to Table Successfully
+21/01/2022 23:28:12:INFO:Connection closed
+21/01/2022 23:38:52:INFO:File Parsed Successfully
+21/01/2022 23:38:52:INFO:Connected to mySql
+21/01/2022 23:38:52:INFO:Database Challenge3 Created
+21/01/2022 23:38:52:INFO:Table carbon_nanotubes Created
+21/01/2022 23:38:53:INFO:Data inserted to Table Successfully
+21/01/2022 23:38:53:INFO:Connection closed
+21/01/2022 23:39:07:INFO:File Parsed Successfully
+21/01/2022 23:39:07:INFO:Connected to mySql
+21/01/2022 23:39:07:INFO:Database Challenge3 Created
+21/01/2022 23:39:07:INFO:Table carbon_nanotubes Created
+21/01/2022 23:39:08:INFO:Data inserted to Table Successfully
+21/01/2022 23:39:08:INFO:Connection closed
+21/01/2022 23:47:39:INFO:File Parsed Successfully
+21/01/2022 23:47:39:INFO:Connected to mySql
+21/01/2022 23:47:39:INFO:Database Challenge3 Created
+21/01/2022 23:47:39:INFO:Table carbon_nanotubes Created
+21/01/2022 23:47:41:INFO:Data inserted to Table Successfully
+21/01/2022 23:47:41:INFO:Connection closed
+21/01/2022 23:49:33:INFO:File Parsed Successfully
+21/01/2022 23:49:33:INFO:Connected to mySql
+21/01/2022 23:49:33:INFO:Database Challenge3 Created
+21/01/2022 23:49:33:INFO:Table carbon_nanotubes Created
+21/01/2022 23:49:35:INFO:Data inserted to Table Successfully
+21/01/2022 23:49:35:INFO:Connection closed
+21/01/2022 23:55:20:INFO:File Parsed Successfully
+21/01/2022 23:55:20:INFO:Connected to mySql
+21/01/2022 23:55:20:INFO:Database Challenge3 Created
+21/01/2022 23:55:20:INFO:Table carbon_nanotubes Created
+21/01/2022 23:55:21:INFO:Data inserted to Table Successfully
+21/01/2022 23:55:21:INFO:Connection closed
+21/01/2022 23:55:38:INFO:File Parsed Successfully
+21/01/2022 23:55:38:INFO:Connected to mySql
+21/01/2022 23:55:39:INFO:Database Challenge3 Created
+21/01/2022 23:55:39:INFO:Table carbon_nanotubes Created
+21/01/2022 23:55:40:INFO:Data inserted to Table Successfully
+21/01/2022 23:55:40:INFO:Connection closed
+21/01/2022 23:56:11:INFO:File Parsed Successfully
+21/01/2022 23:56:12:INFO:Connected to mySql
+21/01/2022 23:56:12:INFO:Database Challenge3 Created
+21/01/2022 23:56:13:INFO:Table carbon_nanotubes Created
+21/01/2022 23:56:13:INFO:Data inserted to Table Successfully
+21/01/2022 23:56:13:INFO:Connection closed
+22/01/2022 00:04:44:INFO:File Parsed Successfully
+22/01/2022 00:04:44:INFO:Connected to mySql
+22/01/2022 00:04:45:INFO:Database Challenge3 Created
+22/01/2022 00:04:45:INFO:Table carbon_nanotubes Created
+22/01/2022 00:04:46:INFO:Data inserted to Table Successfully
+22/01/2022 00:04:46:INFO:Connection closed
+22/01/2022 00:05:09:INFO:File Parsed Successfully
+22/01/2022 00:05:09:INFO:Connected to mySql
+22/01/2022 00:05:09:INFO:Database Challenge3 Created
+22/01/2022 00:05:09:INFO:Table carbon_nanotubes Created
+22/01/2022 00:05:10:INFO:Data inserted to Table Successfully
+22/01/2022 00:05:10:INFO:Connection closed
+22/01/2022 00:06:28:INFO:File Parsed Successfully
+22/01/2022 00:06:28:INFO:Connected to mySql
+22/01/2022 00:06:28:INFO:Database Challenge3 Created
+22/01/2022 00:06:28:INFO:Table carbon_nanotubes Created
+22/01/2022 00:06:29:INFO:Data inserted to Table Successfully
+22/01/2022 00:06:29:INFO:Connection closed
+22/01/2022 00:18:51:INFO:File Parsed Successfully
+22/01/2022 00:18:51:INFO:Connected to mySql
+22/01/2022 00:18:51:INFO:Database Challenge3 Created
+22/01/2022 00:18:51:INFO:Table carbon_nanotubes Created
+22/01/2022 00:18:52:INFO:Data inserted to Table Successfully
+22/01/2022 00:18:52:INFO:Connection closed
+22/01/2022 00:19:07:INFO:File Parsed Successfully
+22/01/2022 00:19:07:INFO:Connected to mySql
+22/01/2022 00:19:07:INFO:Database Challenge3 Created
+22/01/2022 00:19:07:INFO:Table carbon_nanotubes Created
+22/01/2022 00:19:09:INFO:Data inserted to Table Successfully
+22/01/2022 00:19:09:INFO:Connection closed
+22/01/2022 00:19:47:INFO:File Parsed Successfully
+22/01/2022 00:19:47:INFO:Connected to mySql
+22/01/2022 00:19:47:INFO:Database Challenge3 Created
+22/01/2022 00:19:47:INFO:Table carbon_nanotubes Created
+22/01/2022 00:19:48:INFO:Data inserted to Table Successfully
+22/01/2022 00:19:48:INFO:Connection closed
+22/01/2022 00:20:01:INFO:File Parsed Successfully
+22/01/2022 00:20:01:INFO:Connected to mySql
+22/01/2022 00:20:01:INFO:Database Challenge3 Created
+22/01/2022 00:20:01:INFO:Table carbon_nanotubes Created
+22/01/2022 00:20:01:INFO:Data inserted to Table Successfully
+22/01/2022 00:20:01:INFO:Connection closed
+22/01/2022 00:21:10:INFO:File Parsed Successfully
+22/01/2022 00:21:10:INFO:Connected to mySql
+22/01/2022 00:21:10:INFO:Database Challenge3 Created
+22/01/2022 00:21:10:INFO:Table carbon_nanotubes Created
+22/01/2022 00:21:10:INFO:Data inserted to Table Successfully
+22/01/2022 00:21:10:INFO:Connection closed
+24/01/2022 14:42:20:INFO:File Parsed Successfully
+24/01/2022 14:42:21:INFO:Connected to mySql
+24/01/2022 14:42:21:INFO:Database Challenge3 Created
+24/01/2022 14:42:22:INFO:Table carbon_nanotubes Created
+24/01/2022 14:42:23:INFO:Data inserted to Table Successfully
+24/01/2022 14:42:23:INFO:Connection closed
+24/01/2022 14:42:47:INFO:File Parsed Successfully
+24/01/2022 14:42:47:INFO:Connected to mySql
+24/01/2022 14:42:47:INFO:Database Challenge3 Created
+24/01/2022 14:42:47:INFO:Table carbon_nanotubes Created
+24/01/2022 14:42:48:INFO:Data inserted to Table Successfully
+24/01/2022 14:42:48:INFO:Connection closed
+24/01/2022 14:42:55:INFO:File Parsed Successfully
+24/01/2022 14:42:55:INFO:Connected to mySql
+24/01/2022 14:42:55:INFO:Database Challenge3 Created
+24/01/2022 14:42:55:INFO:Table carbon_nanotubes Created
+24/01/2022 14:42:57:INFO:Data inserted to Table Successfully
+24/01/2022 14:42:57:INFO:Connection closed
+24/01/2022 16:01:35:INFO:File Parsed Successfully
+24/01/2022 16:01:35:INFO:Connected to mySql
+24/01/2022 16:01:35:INFO:Database Challenge3 Created
+24/01/2022 16:01:37:INFO:Table carbon_nanotubes Created
+24/01/2022 16:01:43:INFO:Data inserted to Table Successfully
+24/01/2022 16:01:43:INFO:Connection closed
+24/01/2022 16:02:11:INFO:File Parsed Successfully
+24/01/2022 16:02:11:INFO:Connected to mySql
+24/01/2022 16:02:11:INFO:Database Challenge3 Created
+24/01/2022 16:02:12:INFO:Table carbon_nanotubes Created
+24/01/2022 16:02:13:INFO:Data inserted to Table Successfully
+24/01/2022 16:02:13:INFO:Connection closed
+24/01/2022 16:02:57:INFO:File Parsed Successfully
+24/01/2022 16:02:57:INFO:Connected to mySql
+24/01/2022 16:02:57:INFO:Database Challenge3 Created
+24/01/2022 16:02:57:INFO:Table carbon_nanotubes Created
+24/01/2022 16:02:58:INFO:Data inserted to Table Successfully
+24/01/2022 16:02:58:INFO:Connection closed
+24/01/2022 16:03:49:INFO:File Parsed Successfully
+24/01/2022 16:03:49:INFO:Connected to mySql
+24/01/2022 16:03:49:INFO:Database Challenge3 Created
+24/01/2022 16:03:49:INFO:Table carbon_nanotubes Created
+24/01/2022 16:03:50:INFO:Data inserted to Table Successfully
+24/01/2022 16:03:50:INFO:Connection closed
+24/01/2022 16:04:10:INFO:File Parsed Successfully
+24/01/2022 16:04:10:INFO:Connected to mySql
+24/01/2022 16:04:10:INFO:Database Challenge3 Created
+24/01/2022 16:04:10:INFO:Table carbon_nanotubes Created
+24/01/2022 16:04:11:INFO:Data inserted to Table Successfully
+24/01/2022 16:04:11:INFO:Connection closed
+24/01/2022 16:08:19:INFO:File Parsed Successfully
+24/01/2022 16:08:19:INFO:Connected to mySql
+24/01/2022 16:08:19:INFO:Database Challenge3 Created
+24/01/2022 16:08:20:INFO:Table carbon_nanotubes Created
+24/01/2022 16:08:22:INFO:Data inserted to Table Successfully
+24/01/2022 16:08:22:INFO:Connection closed
+24/01/2022 16:08:52:INFO:File Parsed Successfully
+24/01/2022 16:08:52:INFO:Connected to mySql
+24/01/2022 16:08:52:INFO:Database Challenge3 Created
+24/01/2022 16:08:52:INFO:Table carbon_nanotubes Created
+24/01/2022 16:08:54:INFO:Data inserted to Table Successfully
+24/01/2022 16:08:54:INFO:Connection closed
+24/01/2022 16:10:09:INFO:File Parsed Successfully
+24/01/2022 16:10:10:INFO:Connected to mySql
+24/01/2022 16:10:10:INFO:Database Challenge3 Created
+24/01/2022 16:10:10:INFO:Table carbon_nanotubes Created
+24/01/2022 16:10:11:INFO:Data inserted to Table Successfully
+24/01/2022 16:10:11:INFO:Connection closed
+24/01/2022 16:10:52:INFO:File Parsed Successfully
+24/01/2022 16:10:52:INFO:Connected to mySql
+24/01/2022 16:10:52:INFO:Database Challenge3 Created
+24/01/2022 16:10:52:INFO:Table carbon_nanotubes Created
+24/01/2022 16:10:54:INFO:Data inserted to Table Successfully
+24/01/2022 16:10:54:INFO:Connection closed
+24/01/2022 16:11:38:INFO:File Parsed Successfully
+24/01/2022 16:11:38:INFO:Connected to mySql
+24/01/2022 16:11:39:INFO:Database Challenge3 Created
+24/01/2022 16:11:39:INFO:Table carbon_nanotubes Created
+24/01/2022 16:11:40:INFO:Data inserted to Table Successfully
+24/01/2022 16:11:40:INFO:Connection closed
+24/01/2022 16:27:33:INFO:File Parsed Successfully
+24/01/2022 16:27:33:INFO:Connected to mySql
+24/01/2022 16:27:33:INFO:Database Challenge3 Created
+24/01/2022 16:27:33:INFO:Table carbon_nanotubes Created
+24/01/2022 16:27:34:INFO:Data inserted to Table Successfully
+24/01/2022 16:27:34:INFO:Connection closed
+24/01/2022 16:28:18:INFO:File Parsed Successfully
+24/01/2022 16:28:18:INFO:Connected to mySql
+24/01/2022 16:28:18:INFO:Database Challenge3 Created
+24/01/2022 16:28:18:INFO:Table carbon_nanotubes Created
+24/01/2022 16:28:19:INFO:Data inserted to Table Successfully
+24/01/2022 16:28:19:INFO:Connection closed
+24/01/2022 16:28:36:INFO:File Parsed Successfully
+24/01/2022 16:28:36:INFO:Connected to mySql
+24/01/2022 16:28:36:INFO:Database Challenge3 Created
+24/01/2022 16:28:36:INFO:Table carbon_nanotubes Created
+24/01/2022 16:28:37:INFO:Data inserted to Table Successfully
+24/01/2022 16:28:37:INFO:Connection closed
+24/01/2022 16:29:13:INFO:File Parsed Successfully
+24/01/2022 16:29:13:INFO:Connected to mySql
+24/01/2022 16:29:13:INFO:Database Challenge3 Created
+24/01/2022 16:29:14:INFO:Table carbon_nanotubes Created
+24/01/2022 16:29:15:INFO:Data inserted to Table Successfully
+24/01/2022 16:29:15:INFO:Connection closed
+24/01/2022 16:29:31:INFO:File Parsed Successfully
+24/01/2022 16:29:31:INFO:Connected to mySql
+24/01/2022 16:29:31:INFO:Database Challenge3 Created
+24/01/2022 16:29:31:INFO:Table carbon_nanotubes Created
+24/01/2022 16:29:32:INFO:Data inserted to Table Successfully
+24/01/2022 16:29:32:INFO:Connection closed
+24/01/2022 16:31:37:INFO:File Parsed Successfully
+24/01/2022 16:31:37:INFO:Connected to mySql
+24/01/2022 16:31:37:INFO:Database Challenge3 Created
+24/01/2022 16:31:37:INFO:Table carbon_nanotubes Created
+24/01/2022 16:31:39:INFO:Data inserted to Table Successfully
+24/01/2022 16:31:39:INFO:Connection closed
+24/01/2022 16:32:05:INFO:File Parsed Successfully
+24/01/2022 16:32:05:INFO:Connected to mySql
+24/01/2022 16:32:05:INFO:Database Challenge3 Created
+24/01/2022 16:32:05:INFO:Table carbon_nanotubes Created
+24/01/2022 16:32:06:INFO:Data inserted to Table Successfully
+24/01/2022 16:32:06:INFO:Connection closed
+24/01/2022 16:32:25:INFO:File Parsed Successfully
+24/01/2022 16:32:25:INFO:Connected to mySql
+24/01/2022 16:32:25:INFO:Database Challenge3 Created
+24/01/2022 16:32:25:INFO:Table carbon_nanotubes Created
+24/01/2022 16:32:26:INFO:Data inserted to Table Successfully
+24/01/2022 16:32:26:INFO:Connection closed
+24/01/2022 16:32:39:INFO:File Parsed Successfully
+24/01/2022 16:32:39:INFO:Connected to mySql
+24/01/2022 16:32:39:INFO:Database Challenge3 Created
+24/01/2022 16:32:39:INFO:Table carbon_nanotubes Created
+24/01/2022 16:32:40:INFO:Data inserted to Table Successfully
+24/01/2022 16:32:40:INFO:Connection closed
+24/01/2022 16:33:16:INFO:File Parsed Successfully
+24/01/2022 16:33:16:INFO:Connected to mySql
+24/01/2022 16:33:16:INFO:Database Challenge3 Created
+24/01/2022 16:33:16:INFO:Table carbon_nanotubes Created
+24/01/2022 16:33:18:INFO:Data inserted to Table Successfully
+24/01/2022 16:33:18:INFO:Connection closed
+24/01/2022 17:03:24:INFO:File Parsed Successfully
+24/01/2022 17:03:26:INFO:Connected to mySql
+24/01/2022 17:03:26:INFO:Database Challenge3 Created
+24/01/2022 17:03:26:INFO:Table carbon_nanotubes Created
+24/01/2022 17:03:27:INFO:Data inserted to Table Successfully
+24/01/2022 17:03:27:INFO:Connection closed
+15/02/2022 10:16:04:INFO:File Parsed Successfully
+15/02/2022 10:16:06:INFO:Connected to mySql
+15/02/2022 10:16:07:INFO:Database Challenge3 Created
+15/02/2022 10:16:07:INFO:Table carbon_nanotubes Created
+15/02/2022 10:16:10:INFO:Data inserted to Table Successfully
+15/02/2022 10:16:10:INFO:Connection closed
+15/02/2022 10:16:18:INFO:File Parsed Successfully
+15/02/2022 10:16:18:INFO:Connected to mySql
+15/02/2022 10:16:18:INFO:Database Challenge3 Created
+15/02/2022 10:16:19:INFO:Table carbon_nanotubes Created
+15/02/2022 10:16:22:INFO:Data inserted to Table Successfully
+15/02/2022 10:16:22:INFO:Connection closed
+15/02/2022 10:16:37:INFO:File Parsed Successfully
+15/02/2022 10:16:37:INFO:Connected to mySql
+15/02/2022 10:16:37:INFO:Database Challenge3 Created
+15/02/2022 10:16:37:INFO:Table carbon_nanotubes Created
+15/02/2022 10:16:39:INFO:Data inserted to Table Successfully
+15/02/2022 10:16:39:INFO:Connection closed
